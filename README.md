@@ -1,6 +1,6 @@
 # Olá 👋, eu sou João Vitor
 
-🚀 **Desenvolvedor de Software | Especialista em Java e Spring Boot**  
+🚀 **Desenvolvedor Junior Full Stack | Especialista em Java e Spring Boot**  
 🇧🇷 Brasil
 
 Eu construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alta performance**.  
@@ -73,8 +73,8 @@ Sou profundamente focado em **arquitetura, performance, clean code e soluções 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaovitor20420-cpu&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor20420-cpu&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaovitor20420-cpu&show_icons=true&theme=tokyonight&v=2" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovitor20420-cpu&layout=compact&theme=tokyonight&v=2" />
 </p>
 
 ---
